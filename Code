@@ -1,5 +1,6 @@
 #Link diver: https://drive.google.com/drive/folders/10VLH50O3YRJBIw3H5X0z726KLrWuxQWT?usp=sharing
 #Link Colab: https://colab.research.google.com/drive/1L7Av2U679p8ImjYffB9_NnHy-L01XINz?usp=sharing
+# TRẦN QUANG TRUNG 19146411
 
 import matplotlib.pyplot as plt
 from matplotlib.image import imread
